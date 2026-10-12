@@ -20,6 +20,5 @@ We run our own infrastructure end to end: an on-chain indexer that tracks every 
 - App: [markowitz.finance](https://markowitz.finance)
 - Stabble: [stabble.net](https://stabble.net)
 - Stabble weighted pools program: [stabbleorg/amm_v1](https://github.com/stabbleorg/amm_v1)
-- Stabble AMM SDK: [stabbleorg/amm-sdk](https://github.com/stabbleorg/amm-sdk)
 
 We are building the best DeFi portfolio platform out there. Come build your portfolio with us.
